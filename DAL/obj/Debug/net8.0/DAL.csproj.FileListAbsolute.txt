@@ -1,0 +1,15 @@
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\DAL\bin\Debug\net8.0\DAL.deps.json
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\DAL\bin\Debug\net8.0\DAL.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\DAL\bin\Debug\net8.0\DAL.pdb
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\DAL\bin\Debug\net8.0\BE.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\DAL\bin\Debug\net8.0\BE.pdb
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\DAL\obj\Debug\net8.0\DAL.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\DAL\obj\Debug\net8.0\refint\DAL.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\DAL\obj\Debug\net8.0\DAL.pdb
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\DAL\obj\Debug\net8.0\ref\DAL.dll

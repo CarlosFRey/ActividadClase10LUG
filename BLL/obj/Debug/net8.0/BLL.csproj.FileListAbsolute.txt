@@ -1,0 +1,17 @@
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\bin\Debug\net8.0\BLL.deps.json
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\bin\Debug\net8.0\BLL.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\bin\Debug\net8.0\BLL.pdb
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\bin\Debug\net8.0\BE.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\bin\Debug\net8.0\DAL.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\bin\Debug\net8.0\BE.pdb
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\bin\Debug\net8.0\DAL.pdb
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\obj\Debug\net8.0\BLL.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\obj\Debug\net8.0\refint\BLL.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\obj\Debug\net8.0\BLL.pdb
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\BLL\obj\Debug\net8.0\ref\BLL.dll

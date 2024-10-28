@@ -1,0 +1,34 @@
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\Actividad Itinerario 10.exe
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\Actividad Itinerario 10.dll.config
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\Actividad Itinerario 10.deps.json
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\Actividad Itinerario 10.runtimeconfig.json
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\Actividad Itinerario 10.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\Actividad Itinerario 10.pdb
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\BE.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\BLL.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\DAL.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\BE.pdb
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\BLL.pdb
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\bin\Debug\net8.0-windows\DAL.pdb
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\obj\Debug\net8.0-windows\Actividad Itinerario 10.csproj.AssemblyReference.cache
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\obj\Debug\net8.0-windows\Actividad_Itinerario_10.Form1.resources
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\obj\Debug\net8.0-windows\Actividad Itinerario 10.csproj.GenerateResource.cache
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\obj\Debug\net8.0-windows\Actividad Itinerario 10.GeneratedMSBuildEditorConfig.editorconfig
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\obj\Debug\net8.0-windows\Actividad Itinerario 10.AssemblyInfoInputs.cache
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\obj\Debug\net8.0-windows\Actividad Itinerario 10.AssemblyInfo.cs
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\obj\Debug\net8.0-windows\Actividad Itinerario 10.csproj.CoreCompileInputs.cache
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\obj\Debug\net8.0-windows\Activida.6755E2CB.Up2Date
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\obj\Debug\net8.0-windows\Actividad Itinerario 10.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\obj\Debug\net8.0-windows\refint\Actividad Itinerario 10.dll
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\obj\Debug\net8.0-windows\Actividad Itinerario 10.pdb
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\obj\Debug\net8.0-windows\Actividad Itinerario 10.genruntimeconfig.cache
+E:\UAI\5to Cuatrimestre\LUG\Programas\Actividad 10 - Transacciones de negocio\Actividad Itinerario 10\obj\Debug\net8.0-windows\ref\Actividad Itinerario 10.dll
